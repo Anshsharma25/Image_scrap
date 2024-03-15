@@ -85,3 +85,8 @@ INFO:werkzeug:172.18.0.2 - - [15/Mar/2024 12:18:00] "[36mGET /static/css/style.
 INFO:werkzeug:172.18.0.2 - - [15/Mar/2024 12:18:00] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
 INFO:root:bad auth : Authentication failed., full error: {'ok': 0, 'errmsg': 'bad auth : Authentication failed.', 'code': 8000, 'codeName': 'AtlasError'}
 INFO:werkzeug:172.18.0.2 - - [15/Mar/2024 12:18:06] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [15/Mar/2024 12:40:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [15/Mar/2024 12:40:19] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [15/Mar/2024 12:40:19] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:bad auth : Authentication failed., full error: {'ok': 0, 'errmsg': 'bad auth : Authentication failed.', 'code': 8000, 'codeName': 'AtlasError'}
+INFO:werkzeug:172.18.0.2 - - [15/Mar/2024 12:40:33] "POST /review HTTP/1.1" 200 -
